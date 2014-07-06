@@ -1,0 +1,8 @@
+# for Visual Studio
+Debug
+Release
+_Debug
+_Release
+*.sdf
+*.opensdf
+*.suo
